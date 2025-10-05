@@ -30,6 +30,6 @@ Concept Simulation → Prototype → Analog Testing → Mars Integration
 
 ---
 
-Team: [Your Team Name]  
-Location: [Your City, Country]  
+Team: Lemmon  
+Location: Baku,Azerbaijan
 Submission for: NASA Space Apps Challenge 2025
