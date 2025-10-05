@@ -26,10 +26,11 @@ Python | Blender | MATLAB | TensorFlow | OpenFOAM | Unreal Engine
 Concept Simulation → Prototype → Analog Testing → Mars Integration
 
 ## 🎥 Demo Presentation
-[Google Slides Demo](https://docs.google.com/presentation/d/1A2B3Cxyz12345/pub)
+https://wastex-waste-to-energy-e-r6il9ls.gamma.site
 
 ---
 
 Team: Lemmon  
 Location: Baku,Azerbaijan
+
 Submission for: NASA Space Apps Challenge 2025
